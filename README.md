@@ -2,7 +2,7 @@
 
 ## Hi, I'm POORVIKA SRINIVAS
 
-BE CSE, [College Name] | 6th Semester | CGPA: 9+
+BE CSE, SJB Institute of Technology | 6th Semester | CGPA: 9.49
 
 Currently building: Satellite Image Classifier using Deep Learning (EuroSAT dataset)
 
